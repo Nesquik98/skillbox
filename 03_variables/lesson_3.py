@@ -13,3 +13,12 @@
 # d = int(input('Введите четвертое число: '))
 # result = 2 * (c + 5 + ((a * b) / (4 * b))) * (d - (2 * ((a ** 3) / 30))) - 10
 # print(result)
+
+
+# Task 3 Fixed mistakes
+#
+# a = '2'
+# b = '5'
+# c = '3'
+# num = 6 ** int(a) + (7 - int(b)) * int(c)
+# print(num)
