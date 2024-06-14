@@ -24,3 +24,12 @@
 # c = int(input('Введите количество дней: '))
 # result = a // 365, b // 365, c // 365
 # print('Количество полных лет: ', result)
+
+# Task 4 Athletes
+#
+# x = 100
+# a = int(input('Твоя дистанция: '))
+# b = int(input('Твоя дистанция: '))
+# c = int(input('Твоя дистанция: '))
+# result = a % 100, b % 100, c % 100
+# print(result)
