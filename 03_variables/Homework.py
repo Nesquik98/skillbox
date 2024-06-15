@@ -53,11 +53,12 @@
 # print(time, remainder_time)
 
 
-
-
-
-
-
+# Task 8
+#
+# first_number = int(input('Введите первое число: '))
+# second_number = int(input('Введите второе число: '))
+# sum = (first_number % 100) + (second_number % 100)
+# print(sum)
 
 
 
