@@ -21,6 +21,9 @@
 # c = int(input('Число третье: '))
 # d = int(input('Число четвертое: '))
 # print((a + b) / (c + d))
+
+
+# Task 4 Next and previous
 #
 # a = int(input('Введите число: '))
 # print('После числа ', a, 'идёт число ', a + 1)
