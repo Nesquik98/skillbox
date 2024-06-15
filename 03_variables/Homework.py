@@ -37,3 +37,10 @@
 # correct_answer = 50 * 2 ** 3 - 32
 # print('Верный ответ:', correct_answer)
 # print('Ваш ответ:', user_answer)
+
+
+# Task 6 Area of a triangle
+#
+# a = int(input('Введите длину катета: '))
+# b = int(input('Введите другую длину катета: '))
+# print((a * b) / 2)
