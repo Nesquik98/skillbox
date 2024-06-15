@@ -14,3 +14,14 @@
 # print(a + b)
 
 
+# Task 3 Financial report
+#
+# a = int(input('Число первое: '))
+# b = int(input('Число второе: '))
+# c = int(input('Число третье: '))
+# d = int(input('Число четвертое: '))
+# print((a + b) / (c + d))
+#
+# a = int(input('Введите число: '))
+# print('После числа ', a, 'идёт число ', a + 1)
+# print('До числа ', a, 'идёт число ', a - 1)
