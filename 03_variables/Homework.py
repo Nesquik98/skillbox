@@ -28,3 +28,12 @@
 # a = int(input('Введите число: '))
 # print('После числа ', a, 'идёт число ', a + 1)
 # print('До числа ', a, 'идёт число ', a - 1)
+
+
+# Task 5 Bike
+#
+# print('Решите пример: 50 * 2 ** 3 - 32')
+# user_answer = int(input('Ваш ответ: '))
+# correct_answer = 50 * 2 ** 3 - 32
+# print('Верный ответ:', correct_answer)
+# print('Ваш ответ:', user_answer)
