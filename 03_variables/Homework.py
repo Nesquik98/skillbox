@@ -44,3 +44,24 @@
 # a = int(input('Введите длину катета: '))
 # b = int(input('Введите другую длину катета: '))
 # print((a * b) / 2)
+
+# Task 7 Clock
+#
+# minutes = int(input('Введите n — количество минут: '))
+# time = minutes // 60
+# remainder_time = minutes % 60
+# print(time, remainder_time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
