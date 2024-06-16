@@ -61,8 +61,11 @@
 # print(sum)
 
 
-
-
-
-
-
+# Task 9 A round trip
+#
+# road = 115
+# speed = int(input('Введите скорость в км/ч: '))
+# time = float(input('Введите время через какое он оставится в часах: '))
+# print('Пройденное расстояние составит', speed * time,
+#       'км и он будет на отметке', (speed * time) % road,
+#       'км и пройдет', ((speed * time) // road), 'круга(ов)')
