@@ -98,3 +98,14 @@
 # c = (num % 100) // 10
 # d = num % 10
 # print(d, c, b, a)
+
+
+# Task 13 Swap
+#
+# a = int(input('Введите первое число: '))
+# b = int(input('Введите второе число: '))
+# print(a,b)
+# a += b
+# b = a - b
+# a -= b
+# print(a,b)
