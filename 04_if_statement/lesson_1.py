@@ -26,3 +26,13 @@
 # if son != father:
 #     print('Не угадал!')
 # print('Конец игры')
+
+
+# Task 4 Trip to relatives
+#
+# path = int(input('Сколько проехали? '))
+# distance = 190
+# if path != distance:
+#     print('Вы еще не приехали.')
+#     distance -= path
+#     print('Осталось ехать:', distance)
