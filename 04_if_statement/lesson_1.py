@@ -15,3 +15,14 @@
 #     bank -=75000
 #     print('Курс успешно приобретён.')
 # print('Хорошего дня!')
+
+
+# Task 3 Guess the number
+#
+# son = int(input('Какое число я загадал? '))
+# father = 5
+# if son == father:
+#     print('Угадал!')
+# if son != father:
+#     print('Не угадал!')
+# print('Конец игры')
