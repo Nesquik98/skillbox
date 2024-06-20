@@ -88,3 +88,13 @@
 # c = (num % 100) // 10
 # d = num % 10
 # print(a, b, c, d)
+
+
+# Task 12 In reverse order
+#
+# num = int(input('Введите четырехзначное число: '))
+# a = num // 1000
+# b = num // 100 % 10
+# c = (num % 100) // 10
+# d = num % 10
+# print(d, c, b, a)
