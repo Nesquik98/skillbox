@@ -17,3 +17,14 @@
 #     print('Ответ верный!')
 # else:
 #     print('Ответ не верный!')
+
+
+# Task 3 Guess the number 2
+#
+# num = int(input('Какое число я загадал?'))
+# if num == 5:
+#     print('Угадал!')
+# else:
+#     print('Не угадал!')
+# print('Конец игры')
+
