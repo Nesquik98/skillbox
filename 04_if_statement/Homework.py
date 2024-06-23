@@ -81,3 +81,16 @@
 #     print('Часов хватает. Можно отдохнуть.')
 # else:
 #     print('Часов не хватает. Придется работать!')
+
+
+# Task 9 Bad dial
+#
+# mileage = int(input('Введите пробег (трехзначное число): '))
+# day = int(input('Введите номер дня: '))
+# summ = (mileage // 100) + (mileage // 10 % 10) + (mileage % 10)
+# if summ > day:
+#     print('Сброс, пробег обнулен')
+#     mileage = 0
+# else:
+#     print("Сегодня не сломался")
+# print('Текущий пробег:', mileage)
