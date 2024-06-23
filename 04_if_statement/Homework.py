@@ -25,3 +25,15 @@
 #     print('Нечетное число.')
 # else:
 #     print('Четное число')
+
+
+# Task 4 Discount calculator
+#
+# product_1 = int(input('Введите стоимость первого товара: '))
+# product_2 = int(input('Введите стоимость второго товара: '))
+# product_3 = int(input('Введите стоимость третьего товара: '))
+# sum = product_1 + product_2 + product_3
+# if sum >= 10000:
+#     price = sum / 100 * 10
+#     sum -= price
+#     print('Сумма товаров: ', sum)
