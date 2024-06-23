@@ -37,3 +37,13 @@
 #     price = sum / 100 * 10
 #     sum -= price
 #     print('Сумма товаров: ', sum)
+
+
+# Task 5 The absolut value of a number
+#
+# num = int(input('Введите число: '))
+# if num < 0:
+#     answer = -num
+# else:
+#     answer = num
+# print('Ввели', num, 'ответ', answer)
