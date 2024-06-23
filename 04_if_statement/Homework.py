@@ -47,3 +47,16 @@
 # else:
 #     answer = num
 # print('Ввели', num, 'ответ', answer)
+
+
+# Task 6 Dice game
+#
+# cube_Kostya = int(input('Кубик Кости: '))
+# cube_master = int(input('Кубик владельца: '))
+# if cube_Kostya >= cube_master:
+#     print('Разность чисел: ', cube_Kostya - cube_master)
+#     print('Костя платит.')
+# else:
+#     print('Сумма:', cube_Kostya + cube_master)
+#     print('Владелец платит.')
+# print('Игра окончена')
