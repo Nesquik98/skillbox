@@ -94,3 +94,12 @@
 # else:
 #     print("Сегодня не сломался")
 # print('Текущий пробег:', mileage)
+
+
+# Task 10 Max number
+#
+# a = float(input('Введите первое число: '))
+# b = float(input('Введите второе число: '))
+# c = float(input('Введите третье число: '))
+# max_num = max(a, b, c)
+# print('Максимальное число:', max_num)
