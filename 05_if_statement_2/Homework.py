@@ -25,3 +25,15 @@
 #     print(num_2)
 # else:
 #     print(num_3)
+
+
+# Task 3 Function
+#
+# x = int(input('Введите число Х: '))
+# if x > 0:
+#     y = x - 12
+# elif x < 0:
+#     y = x ** 2
+# else:
+#     y = 5
+# print('y =', y)
