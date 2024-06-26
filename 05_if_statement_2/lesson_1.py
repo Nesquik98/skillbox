@@ -23,3 +23,18 @@
 #     print('Не хватает денег на счету')
 # print('Остаток на счету:', bank)
 # print('Хорошего дня!')
+
+
+# Task 3
+#
+# cheese = 60
+# icecream = 20
+# wallet = int(input('Сколько у тебя денег?'))
+# if wallet >= cheese:
+#     wallet -= cheese
+#     print('На сыр денег хватило')
+#     if wallet >= icecream:
+#        wallet -= icecream
+#        print('И на мороженное тоже!')
+# else:
+#     print('Денег маловато')
