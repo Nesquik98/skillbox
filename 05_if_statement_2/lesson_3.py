@@ -16,3 +16,12 @@
 #     print('Поздравляем! Ты поступил!')
 # else:
 #     print('К сожалению, ты не прошёл в наш университет.')
+
+
+# Task 3 Bacteria live long
+#
+# temperature = int(input('Введите температуру: '))
+# if temperature < 0 or temperature > 100:
+#     print('Предпреждение: опасная температура')
+# else:
+#     print('Температура в норме')
