@@ -94,3 +94,12 @@
 # else:
 #     print('Продавцов достаточно')
 # print('Зарплата одного продавца составляет', salary, 'рублей')
+
+
+# Task 7 Protection from fool
+#
+# number = int(input('Введите число: '))
+# if 9 < number < 100:
+#     print('Число двузначное')
+# else:
+#     print('Число не двузначное')
