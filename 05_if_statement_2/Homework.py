@@ -124,3 +124,11 @@
 #  print('Молодец! Можешь отдохнуть.')
 
 
+# Task 10 Protection from fool 2
+#
+# number = int(input('Введите число: '))
+# if 9 < number < 100 or -100 < number < 9:
+#     print('Число двузначное')
+# else:
+#     print('Число не двузначное')
+
