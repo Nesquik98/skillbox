@@ -23,3 +23,14 @@
 # while savings < 500_000:
 #     savings += int(input('Сколько отложить денег?'))
 #     print(f'Баланс: {savings}')
+
+
+# Task 4 Shopping
+#
+# balance = int(input('Ваш баланс карты: '))
+# while balance > 3000:
+#     print('Ваш баланс:', balance)
+#     balance -= int(input('Введите стоимость товара: '))
+# else:
+#     print('Внимание: на карте осталось мало денег! Остановитесь!')
+#     print('Ваш баланс:', balance)
