@@ -34,3 +34,11 @@
 # else:
 #     print('Внимание: на карте осталось мало денег! Остановитесь!')
 #     print('Ваш баланс:', balance)
+
+
+# Task 5 Patterns
+#
+# num = 7
+# while num < 99:
+#     print(num)
+#     num += 7
