@@ -15,3 +15,11 @@
 #     print('Неверный пароль!')
 #     password = int(input('Попробуйте еще раз: '))
 # print('Пароль верный!')
+
+
+# Task 3 Savings
+#
+# savings = 0
+# while savings < 500_000:
+#     savings += int(input('Сколько отложить денег?'))
+#     print(f'Баланс: {savings}')
