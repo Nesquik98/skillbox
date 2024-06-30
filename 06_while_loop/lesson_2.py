@@ -11,3 +11,16 @@
 #     run += 10
 #     print('Пройдено метров:', run)
 
+
+# Task 2 Decoding the code
+#
+# numbers = int(input('Введите большое число: '))
+# summ = 0
+# while numbers > 0:
+#     lust_num = numbers % 10
+#     if lust_num == 5:
+#         print('Разрыв')
+#         break
+#     summ += lust_num
+#     numbers //= 10
+# print(summ)
