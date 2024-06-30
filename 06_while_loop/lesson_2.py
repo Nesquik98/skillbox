@@ -34,3 +34,19 @@
 #     numbers = int(input('Введите число: '))
 #     count += 1
 # print('Количество введенных чисел:', count)
+
+
+# Task 4 Bets accepted, no more bets
+
+# total_money = int(input('Введите стартовую сумму: '))
+# while total_money < 10000:
+#     cub_num = int(input('Сколько выпало на кубике? '))
+#     if cub_num == 3:
+#         print('Вы проиграли всё!')
+#         total_money = 0
+#         print('Игра закончена.')
+#         break
+#     else:
+#         print('Выиграли 500 рублей!')
+#         total_money += 500
+# print('Итого осталось:', total_money)
