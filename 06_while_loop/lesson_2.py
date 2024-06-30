@@ -12,7 +12,7 @@
 #     print('Пройдено метров:', run)
 
 
-# Task 2 Decoding the code
+# Task 2 Decoding the code*
 #
 # numbers = int(input('Введите большое число: '))
 # summ = 0
@@ -24,3 +24,13 @@
 #     summ += lust_num
 #     numbers //= 10
 # print(summ)
+
+
+# Task 3 Primary school
+#
+# count = 0
+# numbers = 0
+# while numbers >= 0:
+#     numbers = int(input('Введите число: '))
+#     count += 1
+# print('Количество введенных чисел:', count)
